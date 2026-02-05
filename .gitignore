@@ -1,0 +1,12 @@
+# Ignoruj wszystkie pliki
+*
+
+# ALE dozwól te typy:
+!*.c
+!*.h
+!.gitignore
+!README.md
+!Makefile
+
+# Tokeny i wrażliwe dane
+.github_token
